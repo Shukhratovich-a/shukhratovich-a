@@ -1,9 +1,5 @@
 ### Hi! I'm Abdulaziz.  
   
-
-- 🔭 I’m currently working on [Smart Software](https://github.com/smarts-uz)  
-  
-
 <br/>  
 
 
